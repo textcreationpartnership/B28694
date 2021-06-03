@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons against the general naturalization of aliens.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28694</idno><idno type="EEBO-CITATION">99886157</idno>
+  <idno type="VID">186044</idno>
+  <idno type="EEBO-PROQUEST">2240896724</idno>
+  
+            <idno type="STC">Wing R477</idno>
+            <idno type="STC">Interim Tract Supplement Guide T.100*[77]</idno>
+            <idno type="STC">ESTC R225535</idno>
+            <idno type="PROQUEST">ocm99886157</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886157e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28694)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186044)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C3:2[76])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons against the general naturalization of aliens.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1662?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Naturalization --  Early works to 1800.</term>
+               <term type="topical_term">Naturalization --  England --  Economic aspects --  Early works to 1800.</term>
+               <term type="topical_term">Aliens --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:186044:1"/>
+            <head>REASONS Against the General Naturalization of ALIENS.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T has been the Prudence of the Princes of this Nation, always to take care to make a Distinction between Natural born Subjects, and Aliens of other Kingdoms, and have never incouraged, nor indeed tolerated them in any thing further than that which might directly or collaterally be judged and esteemed for the Interest of their Natives. Neither were Aliens, in any Age, for any proposed Advantages, favoured and eased in any thing, but Experience immediately discover<g ref="char:EOLhyphen"/>ed many great Mischiefs to attend. Some of which are ennumerated in an Act made for redressing these Grievances, <bibl>
+                  <hi>Anno Henrici Septimi, Cap.</hi> 2.</bibl> and are hereafter mentioned.</p>
+            <p>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>st and Principally, <hi>The advancing Aliens in Riches and Honour, and impoverishing the Native Subjects.</hi>
+            </p>
+            <p>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ondly, <hi>The exhausting the Treasure of the Nation, and remitting the same into foreign Nations.</hi>
+            </p>
+            <p>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>irdly, <hi>The great hurt in impairing and lessening the King's Customs, the Publick Revenue of the Nation.</hi>
+            </p>
+            <p>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rthly, <hi>That Merchants Aliens colour the Goods and Mirchandizes of other Strangers (not Naturalized, or made Denizons) <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>Export great and considerable Substance in their Names.</hi>
+            </p>
+            <p>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rewith agree the Statutes of <bibl>11 <hi>Hen.</hi> 7. <hi>cap.</hi> 14.</bibl> and <bibl>22 <hi>H.</hi> 8. <hi>cap.</hi> 8.</bibl> pursuant to the design of which Laws, few or no Aliens were <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>alized during the Reigns of King <hi>Edward</hi> the Sixth, Queen <hi>Mary,</hi> Queen <hi>Elizabeth,</hi> and King <hi>James.</hi> And how greatly the Trade <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>Wealth of the Nation were thereby increased, during the prosperous Reigns of the two latter of the said Princes, none that are conver<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> History can be ignorant of.</p>
+            <p>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ides when Mischiefs, Experience hath discovered further Inconveniencies in Admitting Aliens and Strangers to have and enjoy a free <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> upon equal Terms with His Majesties Native Subjects. As,</p>
+            <p>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>at the Trade, by Commission would be by Aliens taken out of the Hands of His Majesties Subjects, both at home and abroad, <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>he <hi>English</hi> Merchants would be undersold in the Prices of their Commodities by Aliens, who can live more hardly and at less Char<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Lodgings, <hi>&amp;c,</hi> than the King's Subjects, to the Discouragement of the Gentry, in training up their younger Sons <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ade, which was formerly esteemed and proved a good Provision for them, and many arrived thereby to great Estates and Prefer<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> which few now do.</p>
+            <p>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the second Rule in the Book of Rates, annexed to the Act of Tonnage and Poundage, Goods Imported, and again Exported by <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in Twelve Months, and Aliens in Nine Months, draw back from Their Majesties half the Customs paid by them on the Importati<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d in some Cases more than half.</p>
+            <p>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Act of Tonnage and Poundage, Merchants <hi>English</hi> sustaining loss in their Goods Exported, by Enemies, Pirates, or perishing in <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, draw back the whole Custom from His Majesty, which Prejudice His Majesty will sustain from Aliens Naturalized.</p>
+            <p>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <hi>the Act of Navigation for the increase of Mariners and Shipping, its provided, That sundry Commodities, such as Masts, <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> boards, Foreign Salt, Pitch Tar,</hi> &amp;c. <hi>imported in any other Ship or Vessel than what is English Built, or truly, and <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ut fraud, belonging to the People of</hi> England, <hi>and which is otherwise Navigated and Manned than the said Act directs,</hi> viz. <hi>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>astex and three Fourths of the Mariners (not being English) shall be deemed Aliens Goods, and pay Customs, and City, <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, and Port Duties, as the Goods of Aliens.</hi>
+            </p>
+            <p>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> if Aliens be Naturalized, the true Intent of this Act is frustrated, the Mariners discouraged, and driven into Foreign Parts for a <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hood, and the Building of Shipping (the Strength of the Nation) made of little or no advantage.</p>
+            <p>Increasing the Importation of Commodities, and thereby His Majesties Customs, the only Advantage proposed by the Naturali<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>liens, will in half a Years time, at furthest, be frustrated; Insomuch as this Nation cannot consume all the Commodities Imported, <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> will occasion the Price to fall, and so the Importation by consequence to cease. For it is evident, that no Commodity bears a Price <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rns to Accompt, but the supplies are so considerable in three Months, that the same becomes a Drug.</p>
+            <p>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> moreover, its not to be forgotten, That even in <hi>Holland,</hi> where for Reasons inconsistent with the Nature and Constitution of this <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>m, they have admitted Foreigners to a free Trade with them, yet even there a very <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> difference is made between Aliens <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>tives: For Aliens pay there, upon Importation and Exportation of their Commodities, considerable Duties and Tolls to the City, and Port, where they unlade their Goods, which are not paid by Natives.</p>
+            <p>In fine, It is conceived to be great Prudence for all <hi>English</hi> Subjects, for the Benefit of themselves and their Posterity, to use all discreet and lawful means to prevent the general Naturalization of Aliens, as well for keeping up and increase of their Ma<g ref="char:EOLhyphen"/>jesties Revenue, for preserving and maintaining the Honour and Interest of the English and Native Merchants, and preferring the younger Sons of the English Gentry, as generally for advancing the good of all His Majesties Subjects, and keeping up the Magistracy in all Corporations in its due Honour and Reputation by preserving their Tolls, City, Town, and Port Duties.</p>
+            <p>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>f it shall be thought fit still to continue this Great Favour to Strangers, it is Humbly desired, that it may be with a Provisoe <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>they may not be in better Circumstances than our Natives Freemen, <hi>viz.</hi>)</p>
+            <p>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ded always, That nothing therein contained, shall or may Exempt, or be construed to Exem<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t any Foreigner from the payment <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> or Duties, heretofore Lawfully enjoyed or received by any Body Corporate or Pol<gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the same shall still be paid as <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>paid to such Body Corpo<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>te, <hi>&amp;c.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
